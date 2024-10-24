@@ -12,4 +12,3 @@ Dividido em aulas:
 9  - Vetores e Matrizes
 10 - Tratamento de Exceções
 11 - Classes Orientada a Objeto
-12 - 
