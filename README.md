@@ -1,5 +1,5 @@
 Meu desempenho e aprendizado, parte por parte, da linguagem Java, ensinada pelo professor Vagner Macedo na Faculdade de Tecnologia de Praia Grande (FATEC PG).
-Dividido em aulas: 
+Dividido em 14 aulas: 
 1  - Conceitos básicos de programação
 2  - O que é java, funcionalidades e primeiro código
 3  - Variáveis, tipos de dados e operadores
