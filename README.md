@@ -14,4 +14,4 @@ Dividido em 14 aulas:
 11 - Classes Orientada a Objeto;
 12 - Funções Recursivas;
 13 - Manipulação de Arquivos;
-14 - Modificadores Get & Set;
+14 - Modificadores Get & Set.
