@@ -1,0 +1,20 @@
+1 - Crie uma aplicação Java que leia um arquivo CSV contendo informações de uma lista de produtos (nome do produto, quantidade e preço).
+    A aplicação deve exibir esses dados em um formato de relatório legível. Forneça métodos GET e SET para ambos os atributos. 
+
+	|nome,quantidade,preco 
+	|Arroz,50,19.99 
+	|Feijao,100,7.50 
+	|Macarrao,200,3.25 
+
+2 - Crie uma classe Aluno que tem atributos para o nome do aluno e uma lista de notas. 
+
+	|Implemente métodos get e set para o nome e as notas.  
+	|Adicione um método para calcular a média das notas.  
+	|Instancie um objeto Aluno, defina suas notas, calcule e exiba a média. 
+
+3 - Escreva um programa em Java que conte o número de linhas e o número médio de palavras por linha em um arquivo de texto.  
+
+	|O programa deverá conter tratamento de exceção.
+
+4 - Escreva um programa em Java que recebe uma lista de números inteiros do usuário e verifica se a lista está ordenada de forma crescente.
+    O programa deve usar uma subrotina (método) para realizar essa verificação e outra subrotina para imprimir o resultado.
