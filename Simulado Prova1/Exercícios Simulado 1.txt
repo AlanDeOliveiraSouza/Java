@@ -1,0 +1,23 @@
+1 - Crie um algoritmo que lê um valor real em dólar, e converte o valor para reais. Considere que a cotação é US$ R$ 5,15.
+
+2 - Construa  um  algoritmo  que  leia  do  usuário  o  salário  e  exiba  uma  mensagem de  acordo  com  as  seguintes condições:
+
+	|se o salário for até R$ 645, escreva a mensagem “Até 1 salário;
+	|se o salário for acima de R$ 645 e até R$ 1935, escreva a mensagem “Até 3 salários”;
+	|se for acima de R$ 1935 e abaixo de R$ 3225, escreva a mensagem “Até 5  salários”;
+	|se  for  acima de R$  3225, escreva a mensagem “Acima de  5 salários”. 
+
+4 - Uma revendedora de carros usados paga a seus funcionários um salário fixo por mês,
+    mais uma comissão em reais para cada carro vendido e mais 5% do valor das vendas por ele efetuadas.
+    Escreva uma função para receber o número de carros vendidos por um vendedor, o valor total de suas vendas,
+    o salário fixo e o valor que ele recebe por carro vendido. Calcule e retorne o salário final do vendedor. 
+
+5 - Escreva um programa em Java que defina uma função (subrotina) chamada fatorial que calcula o fatorial de um número inteiro positivo.
+    Em seguida, solicite ao usuário um número e exiba seu fatorial usando a função fatorial. 
+
+6 - Escreva um programa em Java que solicita ao usuário um número inteiro.
+    Se o número for positivo, o programa deve exibir "O número é positivo". Caso contrário, deve exibir "O número é negativo". 
+
+7 - Escreva um programa em Java que calcule a soma dos números pares de 1 a 100 e exiba o resultado. 
+
+// OBS: Os exercícios 3 e 8 foram excluídos do simulado.
